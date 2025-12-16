@@ -15,7 +15,7 @@ nav_order: 1
 
 - **Chain-of-Thought Hijacking**  
   **Jianli Zhao**, Tingchen Fu, Rylan Schaeffer, Mrinank Sharma and Fazl Barez  
-  _Under Review_ &nbsp; [[paper]]() &nbsp; [[code]](https://github.com/gentlyzhao/Hijacking) &nbsp; [[website]](https://gentlyzhao.github.io/Hijacking/)
+  _Under Review_ &nbsp; [[paper]](https://arxiv.org/pdf/2510.26418) &nbsp; [[code]](https://github.com/gentlyzhao/Hijacking) &nbsp; [[website]](https://gentlyzhao.github.io/Hijacking/)
 
 <font size="4" color="#9ba1a6"><strong>2024</strong></font>
 
