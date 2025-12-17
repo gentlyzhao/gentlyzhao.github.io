@@ -38,14 +38,27 @@ a,
 table.table a {
   color: var(--global-theme-color);
 
-  &:hover {
+  &:visited {
     color: var(--global-theme-color);
+  }
+
+  &:hover {
+    color: var(--global-hover-color);
     text-decoration: underline;
   }
 
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
+}
+
+nav[data-toggle="toc"] .nav > li > a:focus,
+nav[data-toggle="toc"] .nav > li > a:hover,
+nav[data-toggle="toc"] .nav-link.active,
+nav[data-toggle="toc"] .nav-link.active:focus,
+nav[data-toggle="toc"] .nav-link.active:hover {
+  color: var(--global-theme-color);
+  border-left-color: var(--global-theme-color);
 }
 
 .table-dark {
