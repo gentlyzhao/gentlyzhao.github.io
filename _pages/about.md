@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, there.
 
-I am Jianli Zhao, who earned a B.S. in Computer Science from Shandong University, where I was mentored by [Prof. Bin Jiang](https://faculty.sdu.edu.cn/jiangbin). Now I am spending a serene gap year, during which I have the privilege of being mentored by [Prof. Fazl Barez](https://fbarez.github.io/) from Oxford. Earlier, in the summer of 2024, I also spent a memorable summer at UCSD, working under the guidance of [Prof. Julian Mcauley](https://cseweb.ucsd.edu/~jmcauley/).
+I am Jianli Zhao, who earned a B.S. in Computer Science from Shandong University, where I was mentored by [Prof. Bin Jiang](https://faculty.sdu.edu.cn/jiangbin). Now I am spending a serene gap year, during which I have the privilege of being mentored by [Prof. Fazl Barez](https://fbarez.github.io/) from Oxford. Earlier, in the summer of 2024, I also spent a golden summer at UCSD, working under the guidance of [Prof. Julian Mcauley](https://cseweb.ucsd.edu/~jmcauley/).
 
 My prior research primarily concentrated on Information Extraction using a diffusion model method [[PDF](https://arxiv.org/pdf/2403.00808.pdf)]. Currently I am keen on Trustworthy LLMs and AI safety. My interests span from exploring the vulnerabilities of LLMs, such as red-teaming, to investigating interpretability via circuit-level analysis, with the goal of ensuring a more secure deployment. [[PDF](https://arxiv.org/pdf/2510.26418)]
 
