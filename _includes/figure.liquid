@@ -63,7 +63,7 @@
       {% if include.zoomable %}
         data-zoomable
       {% endif %}
-      onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
+      onerror="this.onerror=null; var picture=this.parentNode; if (picture) { Array.prototype.forEach.call(picture.querySelectorAll('source'), function(source) { source.remove(); }); }"
     >
   </picture>
 
