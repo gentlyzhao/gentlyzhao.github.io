@@ -38,15 +38,11 @@ My prior research primarily concentrated on Information Extraction using a diffu
 
 - **Chain-of-Thought Hijacking**  
   **Jianli Zhao**, Tingchen Fu, Rylan Schaeffer, Mrinank Sharma, Fazl Barez  
-  *Under review at NeurIPS 2026* &nbsp; [[paper]](https://arxiv.org/pdf/2510.26418) &nbsp; [[code]](https://github.com/gentlyzhao/Hijacking) &nbsp; [[website]](https://gentlyzhao.github.io/Hijacking/)  
-  LLM Safety · Jailbreaking · Mechanistic Interpretability  
-  Induces excessively long chain-of-thought in reasoning models to weaken refusals, investigating the underlying mechanism through activation probing and causal interventions.
+  *Under review 2026* &nbsp; [[paper]](https://arxiv.org/pdf/2510.26418) &nbsp; [[code]](https://github.com/gentlyzhao/Hijacking) &nbsp; [[website]](https://gentlyzhao.github.io/Hijacking/)  
 
 - **IPED: An Implicit Perspective for Relational Triple Extraction based on Diffusion Model**  
   **Jianli Zhao**, Changhao Xu, Bin Jiang  
-  *NAACL 2024 Main Conference paper* &nbsp; [[paper]](https://arxiv.org/pdf/2403.00808.pdf) &nbsp; [[code]](https://github.com/gentlyzhao/IPED)  
-  Information Extraction · Diffusion Models  
-  Formulates joint entity and relation extraction as iterative denoising of implicit block representations.
+  *NAACL 2024* &nbsp; [[paper]](https://arxiv.org/pdf/2403.00808.pdf) &nbsp; [[code]](https://github.com/gentlyzhao/IPED)  
 
 <br>
 
@@ -59,3 +55,13 @@ My prior research primarily concentrated on Information Extraction using a diffu
 - **B.Sc. in Computer Science**, Shandong University (a joint program with ANU)  
   September 2021 – June 2025  
   GPA: 88.07/100 · Rank: 7/102
+
+<br>
+
+### Industry Experience
+
+- **Ant Group**, Intern  
+  June 2026 – September 2026
+
+- **StepFun**, Foundation Model Intern  
+  April 2026 – June 2026
