@@ -48,13 +48,11 @@ My prior research primarily concentrated on Information Extraction using a diffu
 
 ### Education
 
-- **Erasmus Mundus Joint Master**, Data Engineering and Artificial Intelligence  
-  September 2026 – September 2028  
-  *Full Scholarship*
+- **Erasmus Mundus Joint Master** (Full Scholarship), Data Engineering and Artificial Intelligence  
+  September 2026 – September 2028
 
-- **B.Sc. in Computer Science**, Shandong University (a joint program with ANU)  
-  September 2021 – June 2025  
-  GPA: 88.07/100 · Rank: 7/102
+- **B.Sc. in Computer Science**, Shandong University  
+  September 2021 – June 2025
 
 <br>
 
