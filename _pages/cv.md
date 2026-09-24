@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Vitae.pdf
+permalink: /assets/pdf/CV_20260919.pdf
 title: CV
 nav: true
 nav_order: 2

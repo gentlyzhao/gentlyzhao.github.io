@@ -9,7 +9,7 @@ nav_order: 1
 
 <!-- _pages/publications.md -->
 
-<font size="4" color="#9ba1a6"><strong>2025</strong></font>
+<font size="4" color="#9ba1a6"><strong>2026</strong></font>
 
 ---
 
